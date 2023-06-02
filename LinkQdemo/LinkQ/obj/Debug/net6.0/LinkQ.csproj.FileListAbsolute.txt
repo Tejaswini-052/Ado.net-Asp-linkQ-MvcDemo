@@ -1,0 +1,15 @@
+C:\Users\tejua\source\repos\LinkQdemo\LinkQ\bin\Debug\net6.0\LinkQ.exe
+C:\Users\tejua\source\repos\LinkQdemo\LinkQ\bin\Debug\net6.0\LinkQ.deps.json
+C:\Users\tejua\source\repos\LinkQdemo\LinkQ\bin\Debug\net6.0\LinkQ.runtimeconfig.json
+C:\Users\tejua\source\repos\LinkQdemo\LinkQ\bin\Debug\net6.0\LinkQ.dll
+C:\Users\tejua\source\repos\LinkQdemo\LinkQ\bin\Debug\net6.0\LinkQ.pdb
+C:\Users\tejua\source\repos\LinkQdemo\LinkQ\obj\Debug\net6.0\LinkQ.csproj.AssemblyReference.cache
+C:\Users\tejua\source\repos\LinkQdemo\LinkQ\obj\Debug\net6.0\LinkQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tejua\source\repos\LinkQdemo\LinkQ\obj\Debug\net6.0\LinkQ.AssemblyInfoInputs.cache
+C:\Users\tejua\source\repos\LinkQdemo\LinkQ\obj\Debug\net6.0\LinkQ.AssemblyInfo.cs
+C:\Users\tejua\source\repos\LinkQdemo\LinkQ\obj\Debug\net6.0\LinkQ.csproj.CoreCompileInputs.cache
+C:\Users\tejua\source\repos\LinkQdemo\LinkQ\obj\Debug\net6.0\LinkQ.dll
+C:\Users\tejua\source\repos\LinkQdemo\LinkQ\obj\Debug\net6.0\refint\LinkQ.dll
+C:\Users\tejua\source\repos\LinkQdemo\LinkQ\obj\Debug\net6.0\LinkQ.pdb
+C:\Users\tejua\source\repos\LinkQdemo\LinkQ\obj\Debug\net6.0\LinkQ.genruntimeconfig.cache
+C:\Users\tejua\source\repos\LinkQdemo\LinkQ\obj\Debug\net6.0\ref\LinkQ.dll
