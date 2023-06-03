@@ -14,22 +14,6 @@ namespace MvcDemoPractice.Controllers
         }
 
 
-
-  //      private readonly ILogin Login;
-
-		//public HomeController(ILogin LoginRepo)
-		//{
-  //          Login = LoginRepo;
-		//}
-
-  //      public void OnGet()
-  //      {
-  //          ViewData["Name"] = Login.GetInfo().Name;
-		//	ViewData["Password"] = Login.GetInfo().Password;
-
-		//}
-
-
 		public IActionResult Index()
         {
             return View();

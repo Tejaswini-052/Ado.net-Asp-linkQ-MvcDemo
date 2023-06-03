@@ -94,19 +94,54 @@ span.psw {
 </body>
 </html>*@
 @{
-    var login = ViewData["logins"] as List<MvcDemoPractice.Models.LoginRepo>;
+    var logins = ViewData["logins"] as List<MvcDemoPractice.Models.LoginRepo>;
 }
+@*@{
+    @model MvcDempPrectice.Models.LoginRepo;
+}*@
+@*@{
+    var logins=ViewBag.log;
+}*@
 
-    <table class="table">
-        <tr>
-            <th>Name</th>
-            <th>Password</th>
-        </tr>
+@*<h1>@ViewBag.name</h1>*@
+@*<h1>@ViewData["title"]</h1>*@
 
-        @foreach(var log in login){
-             <tr>
-                 <td>@log.Name</td>
-                 <td>@log.Password</td>
-             </tr>
+@*@{
+    @model MvcPracticeDemo.Models.ViewModelDemo.LoginActivity;
+}*@
+@TempData["name"]
+
+<div>    
+    @{
+        Html.RenderPartial("PartialViewDemoPractice");
     }
-        </table>
+</ div>
+<div>
+        @Html.Partial("PartialViewDemoPractice");
+</ div>
+
+@* <table>
+       <tr>
+       <td>@Model.Activity</td>
+    </tr>
+    </table>*@
+<table class="table">
+    <tr>
+    <th>Name</th>
+    <th>Password</th>
+    </tr>
+    @foreach(var log in logins)
+    {
+        <tr>
+            <td>@log.Name</td>
+                <td>@log.Password</td>
+        </tr>
+    }
+
+   @* <table>
+       <tr>
+       <td>@Model.Name</td>
+        <td>@Model.Password</td>
+    </tr>
+    </table>*@
+</table>
